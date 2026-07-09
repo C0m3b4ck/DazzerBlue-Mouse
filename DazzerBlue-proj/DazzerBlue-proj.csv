@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","C_Small","","","","IllinoisCapacitor_r3mm_h8mm:IllinoisCapacitor_r3mm_h8mm",""
+"CON1","1","","","","","4pin_USB_male_pins:4pin_USB_male_pins",""
+"D1","1","LED","","","","LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear",""
+"ENC1","1","","","","","AlpineRotaryEncoder:AlpineRotaryEncoder",""
+"R1,R2","2","68 ohm","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical",""
+"SWL1,SWM1,SWR1","3","","","","","D2FT:D2FT_SW","kicad-embed://Omron-D2F-01-A-datasheet.pdf"
+"U1","1","","","","","V101S:V101S",""
