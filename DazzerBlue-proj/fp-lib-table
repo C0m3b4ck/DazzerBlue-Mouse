@@ -7,4 +7,6 @@
 	(lib (name "IllinoisCapacitor_r3mm_h8mm") (type "KiCad") (uri "${KIPRJMOD}/IllinoisCapacitor_r3mm_h8mm.pretty") (options "") (descr ""))
 	(lib (name "4pin_USB_male_pins") (type "KiCad") (uri "${KIPRJMOD}/4pin_USB_male_pins.pretty") (options "") (descr ""))
 	(lib (name "AlpineRotaryEncoder") (type "KiCad") (uri "${KIPRJMOD}/AlpineRotaryEncoder.pretty") (options "") (descr ""))
+	(lib (name "SmallCapacitor2") (type "KiCad") (uri "${KIPRJMOD}/SmallCapacitor2.pretty") (options "") (descr ""))
+	(lib (name "NoCourtyard") (type "KiCad") (uri "${KIPRJMOD}/NoCourtyard.pretty") (options "") (descr ""))
 )

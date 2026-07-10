@@ -7,7 +7,7 @@
 		(at 1.5 6.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "777125cc-9c23-46b3-84d6-02e714c0e7b4")
+		(uuid "3e598955-5fee-433e-b14e-3552c5677801")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "66bf3afb-3fed-4d3c-b2c0-4ef02120e504")
+		(uuid "928f4561-c0b6-49de-b906-5daafe666915")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "18efc6e1-b69e-46d4-b818-98657d2a9ccc")
+		(uuid "d7074a9d-c52d-438b-afbc-3c82d74db24e")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6c823279-73b2-4aaf-8d30-9332c2856469")
+		(uuid "f7b0d72f-0014-424f-b059-63dc7463eda7")
 		(effects
 			(font
 				(size 1 1)
@@ -59,18 +59,18 @@
 		(start -5 0)
 		(end 7 5.5)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(fill no)
-		(layer "F.CrtYd")
-		(uuid "c1b6996d-a192-489c-b9da-83266778b429")
+		(layer "F.SilkS")
+		(uuid "9ac9b024-9096-45ca-ab47-3ad9ee937803")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "2943f60a-2d2d-4968-a31c-896ff581d327")
+		(uuid "4bfa5816-c45b-4c23-845d-55d7e08b71e3")
 		(effects
 			(font
 				(size 1 1)
@@ -85,7 +85,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "04818e72-c9de-414b-9e8b-3a2c7a3523ac")
+		(uuid "fe36c457-86f2-4498-acb9-322d195ae81e")
 	)
 	(pad "2" thru_hole roundrect
 		(at 1 2.5)
@@ -94,7 +94,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "cb51a2de-b371-4e6a-8fcc-d7add1a983c6")
+		(uuid "0be524e5-c274-4e60-b728-77e21e255409")
 	)
 	(pad "3" thru_hole roundrect
 		(at 6 2.5)
@@ -103,11 +103,11 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "9fe1049c-24c0-47d6-b298-6526c07d5155")
+		(uuid "1e0257a7-d1fe-48ab-ab31-425c49e8d9ac")
 	)
 	(zone
 		(layers "F.Cu" "F.SilkS" "Edge.Cuts")
-		(uuid "7e8562b3-29a0-4c03-873b-c84ebfc0e3e4")
+		(uuid "80ee668b-64ff-4f6b-afff-98c69b32913a")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -137,7 +137,7 @@
 	)
 	(zone
 		(layers "F.Cu" "F.SilkS" "Edge.Cuts")
-		(uuid "419000ae-b5ea-4390-814e-2f7722ed1eaa")
+		(uuid "d9eddfc4-5b92-408e-b1df-ec811f79a26f")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -167,7 +167,7 @@
 	)
 	(zone
 		(layers "F.Cu" "F.SilkS" "Edge.Cuts")
-		(uuid "f6819076-4d6a-4c85-bd4a-6087ed1b4bf9")
+		(uuid "e5c0cd22-ac79-4b88-bbbb-04bba736293a")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)

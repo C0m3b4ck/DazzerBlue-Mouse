@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "DazzerBlue-Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -672,7 +672,7 @@
   "sheets": [
     [
       "fecd0727-143a-4509-a4fb-85b9c2adf2a8",
-      "xm110k-proj"
+      "DazzerBlue-proj"
     ]
   ],
   "text_variables": {},

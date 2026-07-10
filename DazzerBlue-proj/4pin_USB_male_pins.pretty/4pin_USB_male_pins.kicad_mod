@@ -7,7 +7,7 @@
 		(at 2.5 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "8d524854-3792-48a2-bb32-c56a812085a3")
+		(uuid "4f5d766d-159e-4c57-8754-d615c7f4489f")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "505fcfbe-c0c0-4ccf-885d-20c0973d4766")
+		(uuid "e50447b0-4cbd-435c-bff9-3f290f01a95c")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c1a4faf1-f51f-4ca7-bcc3-bd2773caace8")
+		(uuid "2d863069-4f11-4ffb-910e-455768cd4505")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "650cce72-c226-4e7f-9b6c-3b673c6d3f0b")
+		(uuid "cf747064-6185-4584-a788-811b12937cf9")
 		(effects
 			(font
 				(size 1 1)
@@ -65,18 +65,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "4fb5d317-1c2b-40c2-8e8d-2cd2c010d336")
-	)
-	(fp_rect
-		(start 1.5 0)
-		(end 4 10)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill no)
-		(layer "F.CrtYd")
-		(uuid "9d20a343-9528-43c7-ac5a-42f70749a6a8")
+		(uuid "3ceaa5c1-128f-4261-b7fb-7bb1cf7b19fd")
 	)
 	(pad "1" thru_hole roundrect
 		(at 3 1.5)
@@ -85,7 +74,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "186c01d3-e7c1-40b9-a780-de45da03b970")
+		(uuid "16c69945-1d3e-4055-8da5-5e4877399e6b")
 	)
 	(pad "2" thru_hole roundrect
 		(at 3 3.5)
@@ -94,7 +83,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "85e2ab24-6431-4b01-95e1-1a182d2cbf75")
+		(uuid "0f1b73a0-028a-40c1-9a13-d79a528bf580")
 	)
 	(pad "3" thru_hole roundrect
 		(at 3 6)
@@ -103,7 +92,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "46bc8092-246e-462c-af5a-94972d131078")
+		(uuid "a53f0f0f-1c63-4cd0-b074-9da66b6d82d8")
 	)
 	(pad "4" thru_hole roundrect
 		(at 3 8)
@@ -112,7 +101,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "bfecf018-3e6f-4c4a-bbc6-fb6fffa390a1")
+		(uuid "6f26b270-4217-4d88-b66a-2a7a6a12caab")
 	)
 	(embedded_fonts no)
 )
