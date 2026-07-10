@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "xm110k-proj.kicad_pro",
+    "filename": "DazzerBlue-proj.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -661,8 +661,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "xm110k-proj.kicad_sch",
-        "name": "xm110k-proj",
+        "filename": "DazzerBlue-proj.kicad_sch",
+        "name": "DazzerBlue-proj",
         "uuid": "fecd0727-143a-4509-a4fb-85b9c2adf2a8"
       }
     ],

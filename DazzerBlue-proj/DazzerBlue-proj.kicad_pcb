@@ -1888,7 +1888,7 @@
 			(at -6.162605 -14.550665 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e9b9e897-65b0-4636-9f03-f83d565446e2")
+			(uuid "05794531-05dc-48dd-8bce-9f90b4bb7339")
 			(effects
 				(font
 					(size 1.001992 1.001992)
@@ -1900,7 +1900,7 @@
 			(at -1 -7 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f60a38f3-32e6-4b22-9b6f-98231fa74bbb")
+			(uuid "dceb5968-f9c5-44db-ab6c-559ee37fd5eb")
 			(effects
 				(font
 					(size 1.001409 1.001409)
@@ -1912,7 +1912,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8551256-72e2-46bd-83ec-fbe433002709")
+			(uuid "365e9ff3-9cf0-4518-b136-78efce2e2885")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1923,7 +1923,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9cf721cd-1145-4a16-95c5-d86f2abf1aa4")
+			(uuid "1d317191-e8da-48cd-af6d-59776b9ea149")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2240,6 +2240,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/models_external/V101S_model_C0m3b4ck.step"
+			(offset
+				(xyz 11.25 11 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
 	)
 	(footprint "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear"
 		(layer "F.Cu")
@@ -2568,6 +2579,17 @@
 		(uuid "c908464c-8960-49de-b09a-cf21e3fa9008")
 	)
 	(gr_rect
+		(start 167 69)
+		(end 176.5 96)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "55b0dbbb-994d-4405-a696-8b8aa9410a34")
+	)
+	(gr_rect
 		(start 167.5 47.5)
 		(end 174.5 66)
 		(stroke
@@ -2587,6 +2609,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "c37d904b-c94a-4380-acd4-e2a82df70351")
+	)
+	(gr_text "V101S	\nDHE537"
+		(at 169 78.5 0)
+		(layer "F.SilkS")
+		(uuid "9fec22e2-de0d-4902-a2eb-1993a00e81a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(embedded_fonts no)
 )
